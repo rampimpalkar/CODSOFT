@@ -1,0 +1,18 @@
+{
+    "ques":[
+        "1.Which of the following does not yield wool?",
+        "2.Which option best describes a tropical region?",
+        "3.After how many years Olympic games are played.",
+        "4.Daily how many hours need to sleep.",
+        "5.16 x 10 + 2 is equal to"
+        ],
+
+    "options":[
+        ["Yak","Camel","Goat","Wolly Dog"],
+        ["Hot and Humid","Moderate Temperatue,Heavy Rainfall","Cold and Humid","Hot and Dry"],
+        ["5","4","3","2"],
+        ["7","9","8","4"],
+        ["162","192","54","320"]
+        ],
+    "ans":[4,1,2,3,1]
+}
